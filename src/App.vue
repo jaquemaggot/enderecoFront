@@ -6,7 +6,7 @@
 <template>
    <NavBar />
    <br/>
-   <div class="container">
+   <div class="container" id="divPrincipal">
       <RouterView />
    </div>   
 </template>
@@ -17,5 +17,10 @@
       padding: 0;
       margin: 0;
       box-sizing: border-box;
+      
    }
+   #divPrincipal{
+      background-color: #E0E0E0;
+   }
+
 </style>

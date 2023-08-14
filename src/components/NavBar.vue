@@ -14,7 +14,7 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <RouterLink class="nav-link" to="/">Endereços</RouterLink>
+        <RouterLink class="nav-link" to="/">Listagem de Endereços</RouterLink>
       </div>
     </div>
   </div>
